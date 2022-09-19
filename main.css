@@ -24,3 +24,15 @@
 	position:relative;
 	top:1px;
 }
+
+.header {
+    color: white;
+    background-color: black;
+}
+
+.hfl {
+    float:left;
+}
+.hfr {
+    float:right;
+}
