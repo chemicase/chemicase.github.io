@@ -28,6 +28,14 @@
 .header {
     color: white;
     background-color: black;
+	
+}
+
+body {
+	margin: 0;
+}
+
+html {
 	margin: 0;
 }
 
